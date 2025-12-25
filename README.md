@@ -132,5 +132,5 @@ def get_logger(self):
 
 # 五、软件获取
 公众号"**老男孩的平凡之路**"，后台回复"**爬抖音博主**"获取最新版软件安装包。
-![二维码-公众号放底部](https://github.com/user-attachments/assets/ae0f92c8-1374-4fb2-b40c-ba8ab7808ef9)
+<img width="1938" height="364" alt="二维码-公众号放底部v2" src="https://github.com/user-attachments/assets/d3da257e-ed8c-4270-baad-b19ec2f3cf62" />
 
