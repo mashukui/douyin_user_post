@@ -118,7 +118,7 @@ def get_logger(self):
 年卡：使用期限1年，799元。年卡可多次购买。适合长期采集需求
 ```
 付费方式：
-<img width="2086" height="642" alt="收款码v3" src="https://github.com/user-attachments/assets/a9b619e7-c76f-4c90-b885-d3d10d57abfd" />
+<img width="2144" height="412" alt="收款码v4" src="https://github.com/user-attachments/assets/ca469066-90ab-4dc8-9675-71bc86849ded" />
 
 付费后，加我微信（493882434）自动掉落登录卡密。
 
