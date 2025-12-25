@@ -118,7 +118,7 @@ def get_logger(self):
 年卡：使用期限1年，799元。年卡可多次购买。适合长期采集需求
 ```
 付费方式：
-<img width="2086" height="642" alt="收款码v3" src="https://github.com/user-attachments/assets/d78b2b96-a320-4f93-922f-f6bd28c7135c" />
+<img width="2086" height="642" alt="收款码v3" src="https://github.com/user-attachments/assets/a9b619e7-c76f-4c90-b885-d3d10d57abfd" />
 
 付费后，加我微信（493882434）自动掉落登录卡密。
 
@@ -132,4 +132,5 @@ def get_logger(self):
 
 # 五、软件获取
 公众号"**老男孩的平凡之路**"，后台回复"**爬抖音博主**"获取最新版软件安装包。
-![二维码-公众号放底部](https://github.com/user-attachments/assets/666fb2f7-a643-4c43-8934-82d263ee002c)
+![二维码-公众号放底部](https://github.com/user-attachments/assets/ae0f92c8-1374-4fb2-b40c-ba8ab7808ef9)
+
