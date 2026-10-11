@@ -1,7 +1,6 @@
 # douyin_user_post
-> 马哥原创：爬抖音博主软件v1.5版，一键批量采集对标账号主页作品，包含视频下载和数据采集，包含17个核心字段。
 
-> 本软件工具仅限于学术交流使用，严格遵循相关法律法规，符合平台内容合法合规性，禁止用于任何商业用途！
+> ⚠️ **本仓库已停止更新。相关功能已整合进 [爬抖音聚合软件 douyin_one_spider](https://github.com/mashukui/douyin_one_spider)，功能更全面、维护更及时，推荐使用聚合版**。
 
 # 一、背景分析
 ## 1.1 开发背景与功能介绍
@@ -109,7 +108,7 @@ def get_logger(self):
 软件使用过程演示：[【软件演示】抖音主页作品采集工具](https://mp.weixin.qq.com/s/owsDmHGMYjJEaF3inKZhuA)
 
 # 四、付费说明
-## 4.1 卡密说明
+## 4.1 价格说明
 费用如下：
 ```python
 日卡：使用期限1天，19元。适合试用等临时场景
@@ -120,7 +119,7 @@ def get_logger(self):
 **[点击这里，自助开通！](https://mgnb.pro/product/douyin)**
 
 ## 4.2 一机一码
-软件采用一机一码机制，一个卡密只能在一台电脑运行、不可多电脑运行。
+软件采用账号密码登录 + 一机一码机制，一个账号只能在一台电脑运行、不可多电脑运行。
 ## 4.3 软件多开
 一台电脑仅允许运行一个软件，不支持软件多开。
 
@@ -130,6 +129,8 @@ def get_logger(self):
 # 五、最新软件包获取
 
 **本项目已整合到[爬抖音聚合软件(douyin_one_spider)](https://github.com/mashukui/douyin_one_spider)，建议直接使用聚合版本，功能更全面、维护更及时！**
+
+> 注意：**本仓库不提供安装包下载**（本仓库无 Release、无源码），请前往聚合软件仓库或公众号获取。
 
 公众号"**老男孩的平凡之路**"，后台回复"**爬抖音聚合软件**"获取最新软件安装包。
 <img width="1938" height="364" alt="二维码-公众号放底部v2" src="https://github.com/user-attachments/assets/d3da257e-ed8c-4270-baad-b19ec2f3cf62" />
