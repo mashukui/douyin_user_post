@@ -9,15 +9,15 @@
 
 和很多同学聊过，他们希望有一个小工具，把抖音指定博主（对标账号）的主页已发布作品的数据及视频全部采集下来，然后做数据分析使用。为了满足这类需求，我特意用python开发了这款工具：**douyin_user_post**
 
-软件运行界面：![image](https://files.mdnice.com/user/32110/429fb6e8-85c0-4137-8554-3faaba6975e3.jpg)
+软件运行界面：![软件运行界面](images/dyp_01.jpg)
 
  
 自动导出的作品csv文件：（包含17个字段： 页码,作者昵称,uid,sec_uid,作者链接,作者粉丝数,视频标题,视频标签,视频链接,发布时间,视频时长,是否置顶,点赞数,评论数,收藏数,推荐数,转发数）
-![image](https://files.mdnice.com/user/32110/d4a468a3-76f6-427f-81c4-12fd8d0d342d.png)
+![作品数据csv文件](images/dyp_02.png)
 
  
 自动存储到文件夹里的视频文件：
-![image](https://files.mdnice.com/user/32110/743f5c60-1321-4a70-835e-6a43486a503a.png)
+![视频文件存储文件夹](images/dyp_03.png)
 
  
 视频mp4文件的存储规则：
@@ -100,7 +100,7 @@ def get_logger(self):
 	return self.logger
 ```
 日志文件截图：
-![log文件](https://files.mdnice.com/user/32110/d1c9da48-1ee6-4c3e-89d9-f8aa87efeb95.jpg)
+![log文件](images/dyp_04.jpg)
 
  以上。
 
